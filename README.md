@@ -5,6 +5,7 @@ Este projeto foi feito na IDE Visual Studio Code, utilizei a linguagem JavaScrip
 Este foi o último desafio de projeto do Bootc. GFT Start 6 - Lógica de Programação, professor Expert Felipe Aguiar.
 
 ![Jogo de Aventura - Carro](https://github.com/user-attachments/assets/752fa69a-be7e-4f69-b9ce-6721ba9d426f)
+https://belisnalvacosta.github.io/Class-Hero/
 
 
 ## Foi utilizado:
