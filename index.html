@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo de Aventura</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Jogo de Aventura: Heroína, Pteranodon e Carro</h1>
+
+        <div class="character-selection">
+            <button onclick="escolherPersonagem('heroina')">Heroína</button>
+            <button onclick="escolherPersonagem('pteranodon')">Pteranodon</button>
+            <button onclick="escolherPersonagem('carro')">Carro Veloz</button>
+        </div>
+
+        <div id="resultado" class="resultado">
+            <!-- Resultado do ataque será mostrado aqui -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
